@@ -1,7 +1,7 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="CheckinProject@NavBarToolbar" count="3" />
+      <entry action="CheckinProject@NavBarToolbar" count="4" />
       <entry action="ShowProjectStructureSettings@NavBarToolbar" count="1" />
       <entry action="Vcs.ShowTabbedFileHistory@NavBarToolbar" count="3" />
       <entry action="Vcs.UpdateProject@NavBarToolbar" count="1" />
@@ -9,7 +9,7 @@
       <entry action="com.intellij.diff.tools.simple.SimpleOnesideDiffViewer$MyReadOnlyLockAction@DiffToolbar" count="1" />
       <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="1" />
       <entry action="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$2@ChangesBrowser" count="1" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="2" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
     </counts>
   </component>
 </application>
